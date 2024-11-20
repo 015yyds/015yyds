@@ -2,7 +2,7 @@
 
   <!-- 打字效果 -->
 
-<a href="https://github.com/015yyds"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=360&lines=Console.write(%22Hello+World!%22);I'm+Sayonara%2C+Have+a+nice+day!" alt="Typing SVG" /></a>
+<a href="https://github.com/015yyds"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=360&lines=Console.Write(%22Hello+World!%22);I'm+Sayonara%2C+Have+a+nice+day!" alt="Typing SVG" /></a>
 
   <!-- 敲代码图片 -->
 
