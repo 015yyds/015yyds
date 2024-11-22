@@ -10,7 +10,7 @@
 
   <!-- logo 个人资料徽标 -->
   <div>
-    <a href="https://015yyds.github.io"><img src="https://img.shields.io/badge/Website-博客-056DE8" /></a>&emsp;
+    <a href="https://sayonara.sbs"><img src="https://img.shields.io/badge/Website-博客-056DE8" /></a>&emsp;
     <a href="https://space.bilibili.com/480097085/"><img src="https://img.shields.io/badge/bilibili-B站-FF6699" /></a>&emsp;
     <!-- visitor -->
   </div>
